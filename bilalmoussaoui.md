@@ -37,6 +37,5 @@ I'm passionate about the world of **technology and innovation**, and that's why 
 | `filecount`   | "find . -type f \| wc -l" |
 
 
-.
 
 
